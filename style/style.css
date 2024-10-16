@@ -83,12 +83,14 @@ img{
     justify-items: center;
 }
 
-.content span{
+.content .name{
     color: white;
     text-align: center;
 }
-.content address{
-    text-align: center;
+
+address{
+    display: inline;
+    font-style: normal;
 }
 
 .button-group{
